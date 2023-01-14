@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    //Let n be number of nodes and e be number of edges
+    //Let n be number of nodes and e be number of edges of a graph
     int n,e;
     cout<<"Enter number of Nodes:";
     cin>>n;
